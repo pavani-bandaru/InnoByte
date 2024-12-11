@@ -60,6 +60,3 @@ To run the analysis:
 - Perform predictive analysis for sales forecasting.
 - Clean and preprocess missing data for deeper insights.
 
-## Contact
-For any queries or suggestions, please contact [Your Name/Email].
-
